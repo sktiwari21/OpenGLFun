@@ -1,11 +1,11 @@
-# opengGLFun
+# openGLFun
 Messing around with openGL. Contains an OBJ loader and  a free, movable camera. Allows for keyboard input and transformations on both the camera and objects in the scene.
 
 # Reference
 learnopengl.com - Shaders, Loading in OBJ, Camera
 
 # Using:
-GLM, Glut, Glad, GLFW Libraries
+OpenGL, GLM, Glut, Glad, GLFW Libraries
 
 
 # Screenshot:
